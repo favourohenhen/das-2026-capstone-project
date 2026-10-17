@@ -6,3 +6,14 @@ data/
 .env
 .DS_Store
 coverage/
+
+# Personal AI mentorship instructions
+/AGENTS.md
+/MENTORSHIP.md
+
+
+# Personal learning and session memory
+# /student-work/SESSION_STATE.md
+# /student-work/sessions/
+# /student-work/learning-profile.md
+# /student-work/progress.md
